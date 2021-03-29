@@ -11,3 +11,5 @@
     :briefcase: LinkedIn: https://linkedin.com/in/msbrg <br>
   </samp>
 </p>
+
+![Lemorz56's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lemorz56&show_icons=true&theme=synthwave)
