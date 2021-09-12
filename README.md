@@ -3,9 +3,9 @@
 <p align="center">
   <samp>
     Hi, I'm Sebastian! 👋 <br>
-    🔥 23 Year's Old Software Developer currently open for work!  <br>
+    🔥 Software Developer currently working for Epiroc!  <br>
     :sparkles: Favorite Tech: C, C++, Javascript, React, C# ... <br>
-    :notebook: Looking for work! 😁 <br>
+    :notebook: Working at Epiroc 😁 <br>
     :email:	sebastian@msbrg.net <br>
     :art: Portfolio/Website: https://msbrg.net <br>
     :briefcase: LinkedIn: https://linkedin.com/in/msbrg <br>
