@@ -5,7 +5,7 @@
     Hi, I'm Sebastian! 👋 <br>
     🔥 Software Developer currently working for Epiroc!  <br>
     :sparkles: Favorite Tech: C, C++, Javascript, React, C# ... <br>
-    :notebook: Working at Epiroc 😁 <br>
+    :notebook: Currently re-learning nvim with ubuntu after a long time in Visual Studio😥 <br>
     :email:	sebastian@msbrg.net <br>
     :art: Portfolio/Website: https://msbrg.net <br>
     :briefcase: LinkedIn: https://linkedin.com/in/msbrg <br>
