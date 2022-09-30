@@ -1,12 +1,11 @@
 <img src="https://raw.githubusercontent.com/Lemorz56/Lemorz56/master/banner-git.png"/>
  <hr></hr>
-<p align="center">
+<p align="left">
   <samp>
     Hi, I'm Sebastian! 👋 <br>
     🔥 Software Developer <br>
-    :sparkles: Favorite Language: C, C++, Javascript, C# ... <br>
-    :notebook: <br>
     :email:	sebastian@msbrg.net <br>
+    :sparkles: Favorite Language: C#, GO, C++, C... <br>
     :art: Portfolio/Website: https://msbrg.net <br>
     :briefcase: LinkedIn: https://linkedin.com/in/msbrg <br>
   </samp>
