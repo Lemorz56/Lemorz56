@@ -1,11 +1,11 @@
-<img src="https://raw.githubusercontent.com/Lemorz56/Lemorz56/master/banner-git.png"/>
- <hr></hr>
+<!-- <img src="https://raw.githubusercontent.com/Lemorz56/Lemorz56/master/banner-git.png"/> -->
+<hr></hr>
 <p align="left">
   <samp>
     Hi, I'm Sebastian! 👋 <br>
-    🔥 Software Developer <br>
+    🔥 I work as a Software Architect <br>
     :email:	sebastian@msbrg.net <br>
-    :sparkles: Favorite Language: C#, GO, C++, C... <br>
+    :sparkles: Favorite Languages: C#, GO, C++, C... <br>
     :art: Portfolio/Website: https://msbrg.net <br>
     :briefcase: LinkedIn: https://linkedin.com/in/msbrg <br>
   </samp>
