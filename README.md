@@ -12,3 +12,5 @@
 </p>
 
 ![Lemorz56's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lemorz56&show_icons=true&theme=synthwave)
+
+[![An image of @lemorz56's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lemorz56)](https://holopin.io/@lemorz56)
